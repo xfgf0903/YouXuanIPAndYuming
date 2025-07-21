@@ -145,6 +145,7 @@ www.89d.com
 download.redis.io
 www.vitagreen.com
 www.h5.com
+www.hcaptcha.com
 www.pacopacomama.com
 packages.adoptium.net
 haven1.tokensoft.io
