@@ -149,4 +149,3 @@ www.hcaptcha.com
 www.pacopacomama.com
 packages.adoptium.net
 haven1.tokensoft.io
-store.ubisoft.com
