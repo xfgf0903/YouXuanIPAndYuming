@@ -9,4 +9,4 @@
 - 大佬维护:cf.090227.xyz
 
 # 发布CloudFlare优选IP的网站
--https://api.uouin.com/cloudflare.html （提供电信、联通、移动的优质CloudFlare节点IP，每10分钟更新一次）
+- https://api.uouin.com/cloudflare.html （提供电信、联通、移动的优质CloudFlare节点IP，每10分钟更新一次）
