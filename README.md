@@ -1,5 +1,5 @@
 #优选IP和域名，都在项目里。
-# Cloudflare的优选域名和IP
+# Cloudflare优选域名
 优选域名如下
 
 - Cloudflare系统【大佬维护】 : https://cdn.7zz.cn/
