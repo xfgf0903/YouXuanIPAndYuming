@@ -3,8 +3,9 @@
 优选域名如下
 
 - Cloudflare系统【大佬维护】 : https://cdn.7zz.cn/
-- 大佬维护: cloudflare.182682.xyz  ***最佳推荐!!!***
-- 个人维护: cfapi.920329.xyz
-- 大佬维护:https://cf.090227.xyz/
+- 大佬维护:*.cloudflare.182682.xyz  ***最佳推荐!!!***
+- 大佬维护:*.cf.959923.xyz（ 第三方维护，前缀可自定义）
+- 大佬维护:*.cf.cname.vvhan.com（ 第三方维护，前缀可自定义）
+- 大佬维护:cf.090227.xyz
 
 
