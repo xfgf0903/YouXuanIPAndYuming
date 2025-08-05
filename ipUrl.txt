@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/xfgf0903/YouXuanIPAndYuming/refs/heads/main/YouXuanIPv4.txt
+https://raw.githubusercontent.com/xfgf0903/YouXuanIPAndYuming/refs/heads/main/YouXuanIPv6.txt
+https://raw.githubusercontent.com/xfgf0903/YouXuanIPAndYuming/refs/heads/main/%E4%BC%98%E9%80%89%E5%9F%9F%E5%90%8D.txt
